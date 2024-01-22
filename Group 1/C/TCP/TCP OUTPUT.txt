@@ -1,0 +1,61 @@
+
+/************************************
+
+	TCP SERVER TERMINAL
+
+*************************************/
+arnavi@arnavi-Inspiron-N5110:~/finalTCP$ gcc server.c
+arnavi@arnavi-Inspiron-N5110:~/finalTCP$ ./a.out
+
+Waiting for connection 
+ SSFD Value:3
+Connected to socket
+Connection accepted successfully 
+First Value is 12.300000 
+Second Value is 13.200000 
+Addition is 25.500000
+
+First Value is 12.000000 
+Second Value is 22.000000 
+Addition is 34.000000
+
+
+
+/************************************
+
+	TCP CLIENT TERMINAL
+
+*************************************/
+
+arnavi@arnavi-Inspiron-N5110:~/finalTCP$ gcc client.c
+arnavi@arnavi-Inspiron-N5110:~/finalTCP$ ./a.out
+
+Connection successful
+
+SELECT Appropriate Option:
+
+1.	Addition
+2.	Disconnect And Exit1
+Your Choice:1
+Enter any First value:12.3
+
+Enter any Second value:13.2
+Output from server:25.500000
+
+SELECT Appropriate Option:
+
+1.	Addition
+2.	Disconnect And Exit1
+Your Choice:1
+Enter any First value:12
+
+Enter any Second value:22
+Output from server:34.000000
+
+SELECT Appropriate Option:
+
+1.	Addition
+2.	Disconnect And Exit2
+Your Choice:2
+
+

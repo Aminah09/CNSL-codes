@@ -1,0 +1,12 @@
+
+Type "copyright", "credits" or "license" for more information.
+
+IPython 7.32.0 -- An enhanced Interactive Python.
+
+runfile('E:/CNS/CNS LAB/Group B Network Security/Assignment 1/Server.py', wdir='E:/CNS/CNS LAB/Group B Network Security/Assignment 1')
+UDP server up and listening
+5 6497HITEITBVCOEWEnter your reply  
+
+
+Message from Client:Hello UDP Server!. My public Key is: 5 6497
+Client IP Address:('127.0.0.1', 63229)

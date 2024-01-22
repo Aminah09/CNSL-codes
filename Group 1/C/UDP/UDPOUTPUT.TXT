@@ -1,0 +1,39 @@
+
+/***********************************
+
+	UDP SERVER TERMINAL
+
+*************************************/
+
+
+arnavi@arnavi-Inspiron-N5110:~/finaludp$ gcc udpserver.c
+arnavi@arnavi-Inspiron-N5110:~/finaludp$ ./a.out
+
+ UDPServer waiting for client on port no 6666 
+First value is 12.200000 
+Second value is 23.200001 
+Addition is 35.400002 
+First value is 22.100000 
+Second value is 22.200001 
+Addition is 44.300003 
+
+/***********************************
+
+	UDP CLIENT TERMINAL
+
+*************************************/
+
+arnavi@arnavi-Inspiron-N5110:~/finaludp$ gcc udclient.c
+arnavi@arnavi-Inspiron-N5110:~/finaludp$ ./a.out
+
+ Enter First Value :12.2
+
+ Enter Second value:23.2
+
+ Addition is 35.400002
+ Enter First Value :22.1
+
+ Enter Second value:22.2
+
+ Addition is 44.300003
+
