@@ -2,4 +2,4 @@
 SPPU Third Year IT Computer Network Security Lab Lab Assignments
 
 ## List of Assignments
-### Assignment No. 1 : <br>
+### Assignment No. 1: <br>
