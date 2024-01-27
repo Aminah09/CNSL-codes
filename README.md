@@ -21,13 +21,8 @@ and configuration of below Server: (Study/Demonstration Only)<br>
 a) FTP b) Web Server<br>
 
 ### Group B: Network Security<br>
-#### 1. Implement a client and a server on different computers using python. Perform the communication
-between these two entities by using RSA cryptosystem.<br>
-#### 2. Implement a client and a server on different computers using python. Perform the authentication
-ofsender between these two entities by using RSA digital signature cryptosystem.<br>
-#### 3. Implement a client and a server on different computers using python. Perform the encryption of
-message ofsender between these two entities by using DES Algorithm and use Diffie Hellman method
-for exchange of keys.<br>
-#### 4. Use the snort intrusion detection package to analyze traffic and create a signature to identify
-problem traffic.<br>
+#### 1. Implement a client and a server on different computers using python. Perform the communication between these two entities by using RSA cryptosystem.<br>
+#### 2. Implement a client and a server on different computers using python. Perform the authentication ofsender between these two entities by using RSA digital signature cryptosystem.<br>
+#### 3. Implement a client and a server on different computers using python. Perform the encryption of message ofsender between these two entities by using DES Algorithm and use Diffie Hellman method for exchange of keys.<br>
+#### 4. Use the snort intrusion detection package to analyze traffic and create a signature to identify problem traffic.<br>
 
